@@ -1,5 +1,6 @@
 # Power-Bi-Dashboard-on-ESG-Performance
 Interactive Power BI dashboard analyzing ESG disclosure consistency and performance across US industrial companies (2012–2021).
+
 Project Overview
 Environmental, Social, and Governance (ESG) disclosures vary significantly across companies and time.
 This project analyzes how consistently companies disclose ESG data and how disclosure depth relates to ESG performance and firm size.
